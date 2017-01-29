@@ -31,7 +31,7 @@ limitations under the License.
         <module>rcf-app-archetype</module>
     </modules>
 
-    <name>REST Controller Framework</name>
+    <name>REST Controller Framework (RCF)</name>
     <description>Simple, but very usefull REST framework for JEE applications</description>
     <url>https://github.com/agapsys/rcf</url>
 

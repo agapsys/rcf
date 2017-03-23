@@ -25,7 +25,7 @@
         <dependency>
             <groupId>com.agapsys</groupId>
             <artifactId>testing-servlet-container</artifactId>
-            <version>[0.1.0, 2.0.0)</version>
+            <version>[0.1.0, 1.0.0)</version>
             <scope>test</scope>
         </dependency>
 
@@ -33,7 +33,7 @@
         <dependency>
             <groupId>com.agapsys</groupId>
             <artifactId>rcf-core</artifactId>
-            <version>[0.1.0, 2.0.0)</version>
+            <version>[0.1.0, 1.0.0)</version>
             <scope>compile</scope>
         </dependency>
 

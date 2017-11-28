@@ -1,9 +1,9 @@
 [submodule "rcf-app-archetype"]
 	path = rcf-app-archetype
-	url = git@github.com:agapsys/rcf-app-archetype.git
+	url = ../rcf-app-archetype.git
 [submodule "rcf-core"]
 	path = rcf-core
-	url = git@github.com:agapsys/rcf-core.git
+	url = ../rcf-core.git
 [submodule "rcf-scanner-maven-plugin"]
 	path = rcf-scanner-maven-plugin
-	url = git@github.com:agapsys/rcf-scanner-maven-plugin.git
+	url = ../rcf-scanner-maven-plugin.git
